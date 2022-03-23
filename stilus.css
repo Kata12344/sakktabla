@@ -1,0 +1,14 @@
+table, th, td {
+    border: 2px solid #171738;
+    border-radius: 10px;
+    padding: 3px;
+  }
+tr:nth-child(even) {
+    background-color: #7180B9;
+  }
+
+.formazas{
+    border: 2px solid purple;
+    background-color: turquoise;
+    font-size: 20px;
+}
